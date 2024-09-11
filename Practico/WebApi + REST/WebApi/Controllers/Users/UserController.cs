@@ -69,7 +69,7 @@ namespace WebApi.Controllers.Users
         }
 
         [HttpDelete("{userName}")]
-        public void DeleteByUserName(string userName)
+        public string DeleteByUserName(string userName)
         {
             var user = _users.Find(u => u.UserName == userName);
 
@@ -79,6 +79,7 @@ namespace WebApi.Controllers.Users
             }
 
             _users.Remove(user);
+            return "Se elimino el usuario " + userName ;
         }
 
         [HttpPut("{userName}")]

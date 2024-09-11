@@ -1,0 +1,68 @@
+{
+	"info": {
+		"_postman_id": "cc148ce3-1b24-4040-b034-eb37f2534918",
+		"name": "Inyeccion Dependencias",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26325732",
+		"_collection_link": "https://cloudy-crescent-888687.postman.co/workspace/My-Workspace~20ad4944-c27d-4e62-8234-2b82d1974bfb/collection/26325732-cc148ce3-1b24-4040-b034-eb37f2534918?action=share&source=collection_link&creator=26325732"
+	},
+	"item": [
+		{
+			"name": "Transients",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5114/transients",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5114",
+					"path": [
+						"transients"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Singletons",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5114/singletons",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5114",
+					"path": [
+						"singletons"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Scopes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7083/scopes",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7083",
+					"path": [
+						"scopes"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

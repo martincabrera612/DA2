@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\DA2-Tecnologia\\1- Life cycle test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{282E0AD1-7A46-4720-8E64-B62063F46085}|DI.WebApi\\DI.WebApi.csproj|c:\\users\\usuario\\desktop\\da2-tecnologia\\1- life cycle test\\di.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282E0AD1-7A46-4720-8E64-B62063F46085}|DI.WebApi\\DI.WebApi.csproj|solutionrelative:di.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282E0AD1-7A46-4720-8E64-B62063F46085}|DI.WebApi\\DI.WebApi.csproj|c:\\users\\usuario\\desktop\\da2-tecnologia\\1- life cycle test\\di.webapi\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282E0AD1-7A46-4720-8E64-B62063F46085}|DI.WebApi\\DI.WebApi.csproj|solutionrelative:di.webapi\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282E0AD1-7A46-4720-8E64-B62063F46085}|DI.WebApi\\DI.WebApi.csproj|c:\\users\\usuario\\desktop\\da2-tecnologia\\1- life cycle test\\di.webapi\\services\\dependencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282E0AD1-7A46-4720-8E64-B62063F46085}|DI.WebApi\\DI.WebApi.csproj|solutionrelative:di.webapi\\services\\dependencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282E0AD1-7A46-4720-8E64-B62063F46085}|DI.WebApi\\DI.WebApi.csproj|c:\\users\\usuario\\desktop\\da2-tecnologia\\1- life cycle test\\di.webapi\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282E0AD1-7A46-4720-8E64-B62063F46085}|DI.WebApi\\DI.WebApi.csproj|solutionrelative:di.webapi\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282E0AD1-7A46-4720-8E64-B62063F46085}|DI.WebApi\\DI.WebApi.csproj|c:\\users\\usuario\\desktop\\da2-tecnologia\\1- life cycle test\\di.webapi\\services\\isingletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282E0AD1-7A46-4720-8E64-B62063F46085}|DI.WebApi\\DI.WebApi.csproj|solutionrelative:di.webapi\\services\\isingletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282E0AD1-7A46-4720-8E64-B62063F46085}|DI.WebApi\\DI.WebApi.csproj|c:\\users\\usuario\\desktop\\da2-tecnologia\\1- life cycle test\\di.webapi\\services\\idependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282E0AD1-7A46-4720-8E64-B62063F46085}|DI.WebApi\\DI.WebApi.csproj|solutionrelative:di.webapi\\services\\idependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282E0AD1-7A46-4720-8E64-B62063F46085}|DI.WebApi\\DI.WebApi.csproj|c:\\users\\usuario\\desktop\\da2-tecnologia\\1- life cycle test\\di.webapi\\controllers\\scopecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282E0AD1-7A46-4720-8E64-B62063F46085}|DI.WebApi\\DI.WebApi.csproj|solutionrelative:di.webapi\\controllers\\scopecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282E0AD1-7A46-4720-8E64-B62063F46085}|DI.WebApi\\DI.WebApi.csproj|c:\\users\\usuario\\desktop\\da2-tecnologia\\1- life cycle test\\di.webapi\\controllers\\transientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282E0AD1-7A46-4720-8E64-B62063F46085}|DI.WebApi\\DI.WebApi.csproj|solutionrelative:di.webapi\\controllers\\transientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\DA2-Tecnologia\\1- Life cycle test\\DI.WebApi\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "DI.WebApi\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\DA2-Tecnologia\\1- Life cycle test\\DI.WebApi\\Services\\IService.cs",
+              "RelativeToolTip": "DI.WebApi\\Services\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:50:20.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISingletonService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\DA2-Tecnologia\\1- Life cycle test\\DI.WebApi\\Services\\ISingletonService.cs",
+              "RelativeDocumentMoniker": "DI.WebApi\\Services\\ISingletonService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\DA2-Tecnologia\\1- Life cycle test\\DI.WebApi\\Services\\ISingletonService.cs",
+              "RelativeToolTip": "DI.WebApi\\Services\\ISingletonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:50:21.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\DA2-Tecnologia\\1- Life cycle test\\DI.WebApi\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "DI.WebApi\\Services\\Service.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\DA2-Tecnologia\\1- Life cycle test\\DI.WebApi\\Services\\Service.cs",
+              "RelativeToolTip": "DI.WebApi\\Services\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:50:06.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\DA2-Tecnologia\\1- Life cycle test\\DI.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "DI.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\DA2-Tecnologia\\1- Life cycle test\\DI.WebApi\\Program.cs*",
+              "RelativeToolTip": "DI.WebApi\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:48:59.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScopeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\DA2-Tecnologia\\1- Life cycle test\\DI.WebApi\\Controllers\\ScopeController.cs",
+              "RelativeDocumentMoniker": "DI.WebApi\\Controllers\\ScopeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\DA2-Tecnologia\\1- Life cycle test\\DI.WebApi\\Controllers\\ScopeController.cs",
+              "RelativeToolTip": "DI.WebApi\\Controllers\\ScopeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:48:51.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\DA2-Tecnologia\\1- Life cycle test\\DI.WebApi\\Services\\DependencyService.cs",
+              "RelativeDocumentMoniker": "DI.WebApi\\Services\\DependencyService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\DA2-Tecnologia\\1- Life cycle test\\DI.WebApi\\Services\\DependencyService.cs",
+              "RelativeToolTip": "DI.WebApi\\Services\\DependencyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:48:45.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDependency.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\DA2-Tecnologia\\1- Life cycle test\\DI.WebApi\\Services\\IDependency.cs",
+              "RelativeDocumentMoniker": "DI.WebApi\\Services\\IDependency.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\DA2-Tecnologia\\1- Life cycle test\\DI.WebApi\\Services\\IDependency.cs",
+              "RelativeToolTip": "DI.WebApi\\Services\\IDependency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:48:43.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransientController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\DA2-Tecnologia\\1- Life cycle test\\DI.WebApi\\Controllers\\TransientController.cs",
+              "RelativeDocumentMoniker": "DI.WebApi\\Controllers\\TransientController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\DA2-Tecnologia\\1- Life cycle test\\DI.WebApi\\Controllers\\TransientController.cs",
+              "RelativeToolTip": "DI.WebApi\\Controllers\\TransientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:13:00.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1077,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
