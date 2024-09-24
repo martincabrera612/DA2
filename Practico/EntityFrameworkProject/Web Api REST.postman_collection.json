@@ -1,0 +1,131 @@
+{
+	"info": {
+		"_postman_id": "1c7a1e82-9237-457c-abf1-c5c8e8ad5b52",
+		"name": "Web Api REST",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "26325732",
+		"_collection_link": "https://cloudy-crescent-888687.postman.co/workspace/My-Workspace~20ad4944-c27d-4e62-8234-2b82d1974bfb/collection/26325732-1c7a1e82-9237-457c-abf1-c5c8e8ad5b52?action=share&source=collection_link&creator=26325732"
+	},
+	"item": [
+		{
+			"name": "Post User",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"UserName\": \"UnUserName\",\r\n    \"Password\": \"UnaPassword\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:5188/api/users"
+			},
+			"response": []
+		},
+		{
+			"name": "GetAll con Filtro",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5188/api/users?UserName=UnUserName",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5188",
+					"path": [
+						"api",
+						"users"
+					],
+					"query": [
+						{
+							"key": "UserName",
+							"value": "UnUserName"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetAll sin Filtro",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:5188/api/users"
+			},
+			"response": []
+		},
+		{
+			"name": "GetByUserName",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:5188/api/users/UnUserName"
+			},
+			"response": []
+		},
+		{
+			"name": "Delete User",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": "http://localhost:5188/api/users/UnUserName"
+			},
+			"response": []
+		},
+		{
+			"name": "Put User",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Password\": \"OtraPassword\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:5188/api/users/UnUserName"
+			},
+			"response": []
+		},
+		{
+			"name": "Get con Paginación",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5188/api/users/paged?pageNumber=2&pageSize=3\n",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5188",
+					"path": [
+						"api",
+						"users",
+						"paged"
+					],
+					"query": [
+						{
+							"key": "pageNumber",
+							"value": "2"
+						},
+						{
+							"key": "pageSize",
+							"value": "3\n"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
