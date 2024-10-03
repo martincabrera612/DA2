@@ -1,0 +1,6 @@
+@PacManager.WebApi_HostAddress = http://localhost:5226
+
+GET {{PacManager.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

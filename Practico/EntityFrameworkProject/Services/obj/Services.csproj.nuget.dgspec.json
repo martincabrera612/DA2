@@ -1,34 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\Services\\Services.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Services\\Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\mcabr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mcabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\Domain\\Domain.csproj"
+              "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj"
               }
             }
           }
@@ -37,11 +39,38 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,28 +82,35 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\Domain\\Domain.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\mcabr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mcabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -86,6 +122,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -102,38 +143,45 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\Services\\Services.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\mcabr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\Services\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mcabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\mcabr\\OneDrive\\Documents\\ORT\\DA2\\Practico\\Domain\\Domain.csproj"
+              "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj"
               }
             }
           }
@@ -142,6 +190,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -158,7 +211,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
