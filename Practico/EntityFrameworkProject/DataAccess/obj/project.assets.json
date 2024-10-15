@@ -4123,19 +4123,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\Usu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\DataAccess.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\DataAccess.csproj",
+      "packagesPath": "C:\\Users\\Usu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4150,8 +4150,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj"
+            "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Domain\\Domain.csproj"
             }
           }
         }

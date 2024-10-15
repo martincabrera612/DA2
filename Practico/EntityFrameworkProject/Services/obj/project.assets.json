@@ -2784,19 +2784,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\Usu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Services\\Services.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Services\\obj\\",
+      "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Services\\Services.csproj",
+      "packagesPath": "C:\\Users\\Usu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2811,11 +2811,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj"
+            "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Domain\\Domain.csproj"
             }
           }
         }

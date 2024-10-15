@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\WebApiTest\\WebApiTest.csproj": {}
+    "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\WebApiTest\\WebApiTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Usu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj"
+              "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Domain\\Domain.csproj"
               }
             }
           }
@@ -91,17 +91,17 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj": {
+    "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Usu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -152,17 +152,17 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Services\\Services.csproj": {
+    "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Services\\obj\\",
+        "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\Usu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -177,11 +177,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj"
+              "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Domain\\Domain.csproj"
               }
             }
           }
@@ -220,17 +220,17 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\WebApiTest\\WebApiTest.csproj": {
+    "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\WebApiTest\\WebApiTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\WebApiTest\\WebApiTest.csproj",
+        "projectUniqueName": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\WebApiTest\\WebApiTest.csproj",
         "projectName": "WebApiTest",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\WebApiTest\\WebApiTest.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\WebApiTest\\obj\\",
+        "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\WebApiTest\\WebApiTest.csproj",
+        "packagesPath": "C:\\Users\\Usu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\WebApiTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -245,11 +245,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Services\\Services.csproj"
+              "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Services\\Services.csproj"
               },
-              "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\WebApi\\WebApi.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\WebApi\\WebApi.csproj"
+              "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\WebApi\\WebApi.csproj": {
+                "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\WebApi\\WebApi.csproj"
               }
             }
           }
@@ -310,17 +310,17 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\WebApi\\obj\\",
+        "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\Usu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -335,11 +335,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Services\\Services.csproj"
+              "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Services\\Services.csproj"
               }
             }
           }

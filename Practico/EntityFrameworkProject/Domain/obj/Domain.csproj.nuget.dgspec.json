@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj": {
+    "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\WebApi + REST\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Usu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

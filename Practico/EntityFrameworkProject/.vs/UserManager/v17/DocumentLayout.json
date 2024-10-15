@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E18EA76A-BECE-486F-94C0-91522DE15966}|DataAccess\\DataAccess.csproj|c:\\users\\usu\\documents\\ort\\da2\\practico\\entityframeworkproject\\dataaccess\\repositories\\userdataaccess\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18EA76A-BECE-486F-94C0-91522DE15966}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\userdataaccess\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18EA76A-BECE-486F-94C0-91522DE15966}|DataAccess\\DataAccess.csproj|c:\\users\\usu\\documents\\ort\\da2\\practico\\entityframeworkproject\\dataaccess\\repositories\\userdataaccess\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18EA76A-BECE-486F-94C0-91522DE15966}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\userdataaccess\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18EA76A-BECE-486F-94C0-91522DE15966}|DataAccess\\DataAccess.csproj|c:\\users\\usu\\documents\\ort\\da2\\practico\\entityframeworkproject\\dataaccess\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18EA76A-BECE-486F-94C0-91522DE15966}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E18EA76A-BECE-486F-94C0-91522DE15966}|DataAccess\\DataAccess.csproj|c:\\users\\usu\\documents\\ort\\da2\\practico\\entityframeworkproject\\dataaccess\\migrations\\20240915155449_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18EA76A-BECE-486F-94C0-91522DE15966}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20240915155449_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:39:08.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\Repositories\\UserDataAccess\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserDataAccess\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\Repositories\\UserDataAccess\\IUserRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\UserDataAccess\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T01:48:11.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\Repositories\\UserDataAccess\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserDataAccess\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\Repositories\\UserDataAccess\\UserRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\UserDataAccess\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T01:48:15.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240915155449_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\Migrations\\20240915155449_FirstMigration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240915155449_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\Usu\\Documents\\ORT\\DA2\\Practico\\EntityFrameworkProject\\DataAccess\\Migrations\\20240915155449_FirstMigration.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240915155449_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:39:11.726Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 46,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
